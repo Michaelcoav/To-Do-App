@@ -26,21 +26,21 @@
 
 ## Usage
   ### Demo
-    #### Mobile Version of To Do App
-    ![](/images/MobileToDo.PNG)
+   #### Mobile Version of To Do App
+   ![](/images/MobileToDo.PNG)
     
-    #### Responsive Web Version of To Do App
-    ![](/images/WebToDo.PNG)
+   #### Responsive Web Version of To Do App
+   ![](/images/WebToDo.PNG)
     
-    #### New Task being added to tasks
-    ![](/images/NewTask.PNG)
+   #### New Task being added to tasks
+   ![](/images/NewTask.PNG)
     
-    #### Task being deleted from tasks
-    ![](/images/DeletedItem.PNG)
+   #### Task being deleted from tasks
+   ![](/images/DeletedItem.PNG)
 
   ### Add Tasks to page
-    #### Does not allow duplicate tasks
-    #### Does not allow empty tasks
+   #### Does not allow duplicate tasks
+   #### Does not allow empty tasks
     
   ### Remove Tasks from page
  
