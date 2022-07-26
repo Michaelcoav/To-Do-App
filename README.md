@@ -2,7 +2,8 @@
 
 ## Table of Contents  
   * ### [About](#About)
-    *  Technologies
+    * Technologies
+  * ### [Getting Started](#GettingStarted) 
   * ### [Usage](#Usage)
     * Demo
   * ### [Future Improvements](#FutureImprovements)
@@ -19,7 +20,8 @@
     * React
     * MaterialMUI
     
-
+## <a name="GettingStarted">Getting Started</a>
+ * # Link to app
 
 ## <a name="Usage">Usage</a>
  ### Demo
