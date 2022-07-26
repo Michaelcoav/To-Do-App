@@ -3,8 +3,6 @@
 ## Table of Contents  
   * ### [About](#About)
     *  Technologies
-  * ### [Getting Started](#GettingStarted)
-    *  Link to app
   * ### [Usage](#Usage)
     * Demo
   * ### [Future Improvements](#FutureImprovements)
@@ -24,7 +22,7 @@
 ## <a name="GettingStarted">Getting Started</a>
   * To Do App
 
-## <a name="Usage">Use</a>
+## <a name="Usage">Usage</a>
  ### Demo
   #### Mobile Version of To Do App
   ![](/images/MobileToDo.png)
