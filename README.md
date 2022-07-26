@@ -1,13 +1,13 @@
 # To Do App
 
 ## Table of Contents  
-  * ### [About](/#About)
+  * ### [About](#About)
     *  Technologies
-  * ### [Getting Started](/#Getting Started)
+  * ### [Getting Started](#Getting-Started)
     *  Link to app
-  * ### [Usage](/#Usage)
+  * ### [Usage](#Usage)
     * Demo
-  * ### [Future Improvements](/#Future Improvements)
+  * ### [Future Improvements](#Future-Improvements)
 
 
 ## About
@@ -21,7 +21,7 @@
     * React
     * MaterialMUI
     
-## Getting Started
+## Getting-Started
   * To Do App
 
 ## Usage
@@ -38,17 +38,17 @@
     #### Task being deleted from tasks
     ![](/images/DeletedItem.PNG)
 
-  # Add Tasks to page
-    # Does not allow duplicate tasks
-    # Does not allow empty tasks
+  ### Add Tasks to page
+    #### Does not allow duplicate tasks
+    #### Does not allow empty tasks
     
-  # Remove Tasks from page
+  ### Remove Tasks from page
  
   
-## Future Improvements
-  # Add due date to let users know when tasks are due
-  # Add edit function to allow users to edit tasks
-  # Add tasks list to server to allow users to refresh page and keep tasks
+## Future-Improvements
+  * ### Add due date to let users know when tasks are due
+  * ### Add edit function to allow users to edit tasks
+  * ### Add tasks list to server to allow users to refresh page and keep tasks
 
 
 
