@@ -1,16 +1,16 @@
 # To Do App
 
 ## Table of Contents  
-  * ### [About](##About)
+  * ### [About](#About)
     *  Technologies
-  * ### [Getting Started](##Getting-Started)
+  * ### [Getting Started](#GettingStarted)
     *  Link to app
-  * ### [Usage](##Usage)
+  * ### [Usage](#Usage)
     * Demo
-  * ### [Future Improvements](#Future-Improvements)
+  * ### [Future Improvements](#FutureImprovements)
 
 
-## About 
+## <a name="About">About</a>
   * This summer I had the chance to learn about different technologies and I decided to learn more about react. I got to learn about the basics of react. This project is the result of my learning.
  
   * ### Technologies
@@ -21,10 +21,10 @@
     * React
     * MaterialMUI
     
-## Getting-Started 
+## <a name="GettingStarted">Getting Started</a>
   * To Do App
 
-## Usage
+## <a name="Usage">Usage</a>
  ### Demo
   #### Mobile Version of To Do App
   ![](/images/MobileToDo.png)
@@ -45,7 +45,7 @@
   ### Remove Tasks from page
  
   
-## Future-Improvements
+## <a name="FutureImprovements">Future Improvements</a>
  * #### Add due date to let users know when tasks are due
  * #### Add edit function to allow users to edit tasks
  * #### Add tasks list to server to allow users to refresh page and keep tasks
