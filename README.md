@@ -24,7 +24,7 @@
 ## <a name="GettingStarted">Getting Started</a>
   * To Do App
 
-## <a name="Usage">Usage</a>
+## <a name="Usage">Use</a>
  ### Demo
   #### Mobile Version of To Do App
   ![](/images/MobileToDo.png)
