@@ -1,16 +1,16 @@
 # To Do App
 
 ## Table of Contents  
-  * ### [About](#About)
+  * ### [About]
     *  Technologies
-  * ### [Getting Started](#Getting-Started)
+  * ### [Getting Started]
     *  Link to app
   * ### [Usage](#Usage)
     * Demo
   * ### [Future Improvements](#Future-Improvements)
 
 
-## About
+## About (#About)
   * This summer I had the chance to learn about different technologies and I decided to learn more about react. I got to learn about the basics of react. This project is the result of my learning.
  
   * ### Technologies
@@ -21,7 +21,7 @@
     * React
     * MaterialMUI
     
-## Getting-Started
+## Getting-Started (#Getting-Started)
   * To Do App
 
 ## Usage
