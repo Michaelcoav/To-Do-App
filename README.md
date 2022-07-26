@@ -19,8 +19,7 @@
     * React
     * MaterialMUI
     
-## <a name="GettingStarted">Getting Started</a>
-  * To Do App
+
 
 ## <a name="Usage">Usage</a>
  ### Demo
