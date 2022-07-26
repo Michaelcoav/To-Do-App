@@ -4,6 +4,7 @@
   * ### [About](#About)
     * Technologies
   * ### [Getting Started](#GettingStarted) 
+    * Link to app  
   * ### [Usage](#Usage)
     * Demo
   * ### [Future Improvements](#FutureImprovements)
@@ -21,7 +22,7 @@
     * MaterialMUI
     
 ## <a name="GettingStarted">Getting Started</a>
- * # Link to app
+ * ### Link to app
 
 ## <a name="Usage">Usage</a>
  ### Demo
